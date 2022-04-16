@@ -1,4 +1,4 @@
-package dpj;
+package iterator;
 
 import java.util.Iterator;
 

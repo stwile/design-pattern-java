@@ -1,4 +1,4 @@
-package dpj;
+package iterator;
 
 public class Book {
     private final String name;
